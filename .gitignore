@@ -40,3 +40,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# gitignore test
+/src/main/com/sparta/package_must_ignore/
